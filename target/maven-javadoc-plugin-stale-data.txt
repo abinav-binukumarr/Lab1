@@ -1,0 +1,47 @@
+@options
+@packages
+@argfile
+--class-path
+'C:/UNi-STUFF/Winter 2025/SofQ/BinaryCalculator/target/classes;C:/UNi-STUFF/Winter 2025/SofQ/BinaryCalculator/target/test-classes;C:/Users/abina/.m2/repository/junit/junit/4.11/junit-4.11.jar;C:/Users/abina/.m2/repository/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar;C:/Users/abina/.m2/repository/joda-time/joda-time/2.9.2/joda-time-2.9.2.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'23'
+-sourcepath
+'C:/UNi-STUFF/Winter 2025/SofQ/BinaryCalculator/src/test/java;C:/UNi-STUFF/Winter 2025/SofQ/BinaryCalculator/target/generated-test-sources/test-annotations'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/UNi-STUFF/Winter 2025/SofQ/BinaryCalculator/target/site/testapidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'BinaryCalculator 1.0.0 Test API'
+-link
+'../apidocs'
+-use
+-version
+-windowtitle
+'BinaryCalculator 1.0.0 Test API'
+com.ontariotechu.sofe3980U
+'C:/UNi-STUFF/Winter 2025/SofQ/BinaryCalculator/src/test/java/com/ontariotechu/sofe3980U/AppTest.java'
+'C:/UNi-STUFF/Winter 2025/SofQ/BinaryCalculator/src/test/java/com/ontariotechu/sofe3980U/BinaryTest.java'
+C:\UNi-STUFF\Winter 2025\SofQ\BinaryCalculator\src\test\java = 1737036760442
+C:\UNi-STUFF\Winter 2025\SofQ\BinaryCalculator\target\generated-test-sources\test-annotations = 1738114088993
+C:\UNi-STUFF\Winter 2025\SofQ\BinaryCalculator\target\site\testapidocs\allclasses-index.html = 1738114448004
+C:\UNi-STUFF\Winter 2025\SofQ\BinaryCalculator\target\site\testapidocs\allpackages-index.html = 1738114448006
+C:\UNi-STUFF\Winter 2025\SofQ\BinaryCalculator\target\site\testapidocs\element-list = 1738114447972
+C:\UNi-STUFF\Winter 2025\SofQ\BinaryCalculator\target\site\testapidocs\help-doc.html = 1738114448022
+C:\UNi-STUFF\Winter 2025\SofQ\BinaryCalculator\target\site\testapidocs\index-all.html = 1738114448017
+C:\UNi-STUFF\Winter 2025\SofQ\BinaryCalculator\target\site\testapidocs\index.html = 1738114448019
+C:\UNi-STUFF\Winter 2025\SofQ\BinaryCalculator\target\site\testapidocs\member-search-index.js = 1738114448008
+C:\UNi-STUFF\Winter 2025\SofQ\BinaryCalculator\target\site\testapidocs\module-search-index.js = 1738114448007
+C:\UNi-STUFF\Winter 2025\SofQ\BinaryCalculator\target\site\testapidocs\overview-tree.html = 1738114447997
+C:\UNi-STUFF\Winter 2025\SofQ\BinaryCalculator\target\site\testapidocs\package-search-index.js = 1738114448007
+C:\UNi-STUFF\Winter 2025\SofQ\BinaryCalculator\target\site\testapidocs\search.html = 1738114448018
+C:\UNi-STUFF\Winter 2025\SofQ\BinaryCalculator\target\site\testapidocs\tag-search-index.js = 1738114448009
+C:\UNi-STUFF\Winter 2025\SofQ\BinaryCalculator\target\site\testapidocs\type-search-index.js = 1738114448008
